@@ -1,4 +1,5 @@
 Work in progress: Not production-ready.
+TODO: Add documentation for signle term proof of existence
 
 # Merkle-Poseidon-ECDSA signature Verification in Noir
 This circuit creates a verifiable proof, that a ECDSA (secp256k1 curve) signature over a Poseidon-Merkle-root from an encoded RDF dataset is verified correctly.
